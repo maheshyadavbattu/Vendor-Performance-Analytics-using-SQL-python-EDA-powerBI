@@ -10,7 +10,7 @@
 - Vendor_invoice:[application_data.csv]()
 
 ## 📌 Dashboard Overview  
-![PBI Dashboard - Vendor Insights](dashboard.png)  
+![PBI Dashboard - Vendor Insights](https://github.com/maheshyadavbattu/Vendor-Performance-Analytics-using-SQL-python-EDA-powerBI/blob/main/Dashboard%20View.png.png)  
 
 ## 🚀 Business Problem  
 
