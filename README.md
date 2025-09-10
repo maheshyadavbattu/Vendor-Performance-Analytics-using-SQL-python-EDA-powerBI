@@ -2,12 +2,12 @@
 🔎 A data-driven project uncovering vendor performance, profitability trends, and inventory efficiency through exploratory data analysis and interactive dashboards.
 
 ## Data sources:
-- Begin_inventory
-- End_inventory
-- Purchase_prices
-- Purchases
-- Sales
-- Vendor_invoice
+- Begin_inventory: [application_data.csv]()
+- End_inventory:[application_data.csv]()
+- Purchase_prices:[application_data.csv]()
+- Purchases:[application_data.csv]()
+- Sales:[application_data.csv]()
+- Vendor_invoice:[application_data.csv]()
 
 ## 📌 Dashboard Overview  
 ![PBI Dashboard - Vendor Insights](dashboard.png)  
