@@ -5,7 +5,7 @@
 - Begin_inventory: [application_data.csv](https://drive.google.com/file/d/13pZjlqsOdcQ_Ttuayl-n9I1ZhQoXlx6E/view?usp=sharing)
 - End_inventory:[application_data.csv](https://drive.google.com/file/d/1IsJTesCMROO7uBog8TQTJZ2DLd0LJu8I/view)
 - Purchase_prices:[application_data.csv](https://drive.google.com/file/d/1fIRYlcrZzdiiL9_thATrq8nDShuQrNlU/view?usp=drive_open)
-- Purchases:[application_data.csv]()
+- Purchases:[application_data.csv](https://drive.google.com/drive/u/0/search?q=https://drive.google.com/file/d/1WssZ_FBgNZ3zewetAqczbR7D8X3A6Jvv/view%3Fusp=drivesdk)
 - Sales:[application_data.csv]()
 - Vendor_invoice:[application_data.csv](https://drive.google.com/file/d/11OOriGMlVeOzj6Dou6ajOPe5RniLiQix/view)
 
