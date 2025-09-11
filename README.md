@@ -2,7 +2,7 @@
 🔎 A data-driven project uncovering vendor performance, profitability trends, and inventory efficiency through exploratory data analysis and interactive dashboards.
 
 ## Data sources:
-- Begin_inventory: [application_data.csv](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)
+- Begin_inventory: [application_data.csv](https://drive.google.com/file/d/13pZjlqsOdcQ_Ttuayl-n9I1ZhQoXlx6E/view?usp=sharing)
 - End_inventory:[application_data.csv]()
 - Purchase_prices:[application_data.csv]()
 - Purchases:[application_data.csv]()
