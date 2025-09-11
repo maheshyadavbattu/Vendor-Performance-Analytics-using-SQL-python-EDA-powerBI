@@ -4,10 +4,10 @@
 ## Data sources:
 - Begin_inventory: [application_data.csv](https://drive.google.com/file/d/13pZjlqsOdcQ_Ttuayl-n9I1ZhQoXlx6E/view?usp=sharing)
 - End_inventory:[application_data.csv](https://drive.google.com/file/d/1IsJTesCMROO7uBog8TQTJZ2DLd0LJu8I/view)
-- Purchase_prices:[application_data.csv]()
+- Purchase_prices:[application_data.csv](https://drive.google.com/file/d/1fIRYlcrZzdiiL9_thATrq8nDShuQrNlU/view?usp=drive_open)
 - Purchases:[application_data.csv]()
 - Sales:[application_data.csv]()
-- Vendor_invoice:[application_data.csv]()
+- Vendor_invoice:[application_data.csv](https://drive.google.com/file/d/11OOriGMlVeOzj6Dou6ajOPe5RniLiQix/view)
 
 ## 📌 Dashboard Overview  
 ![PBI Dashboard - Vendor Insights](https://github.com/maheshyadavbattu/Vendor-Performance-Analytics-using-SQL-python-EDA-powerBI/blob/main/Dashboard%20View.png.png)  
